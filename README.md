@@ -17,3 +17,4 @@ Doğru email ve şifrenin ardından başarılı bir şekilde öğrenci girişi y
 Personel girişi yapıldığında açılan sayfada sisteme öğrenci ekleme, öğretmen ekleme, etüt takvimini görüntüleme ve çıkış seçenekleri olmaktadır. Öğrenci ekleme ve öğretmen ekleme işlemlerinde gerekli bilgiler girilerek öğrenciler ve öğretmenler sisteme kaydedilmektedir Ayrıca öğretmenler ve öğrenciler listelenebilir. Kayıtlı kişinin id numarasına tıklanıldığında kişinin bilgileri ilgili alanlara gelir. burada değişiklikler yapılarak güncelle butonuna basıldığında kişinin bilgileri güncellenir.
 
 ![](https://github.com/SimgeTerzioglu/EtutUygulamasi/blob/master/ogrenciekleme.png)
+
